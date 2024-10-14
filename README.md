@@ -26,15 +26,15 @@ Note: The dataset is highly imbalanced, with the fraudulent class representing j
 
 The features V1 through V28 are the principal components derived from PCA, while 'Time' and 'Amount' are not transformed. The 'Class' feature is the target variable, where 1 indicates fraud, and 0 indicates a legitimate transaction.
 
+**Dataset Link**: [](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
 ## Project Repository Structure
 
 The repository is organized as follows:
 
-1. **images/**: Contains images used within this README.
-2. **Data/**: Stores the dataset used for analysis.
-3. **README.md**: Provides an overview of the project.
-4. **ipynb notebook/**: Contains a Jupyter notebook with the full code.
-5. **cc_model.pkl**: This is the final model.
+1. **README.md**: Provides an overview of the project.
+2. **ipynb notebook/**: Contains a Jupyter notebook with the full code.
+3. **cc_model.pkl**: This is the final model.
 
 ## Project Dependencies
 
