@@ -1,6 +1,7 @@
 # Credit card fraud detection project
 
-![](card.jpg)
+![Credit card fraud detection](card.jpg)
+<img src="card.jpg" alt="Alt Text" width="300" height="200">
 
 ## Table of Contents
 
