@@ -1,1 +1,2 @@
-Credit card fraud detection project
+# Credit card fraud detection project
+![Sales Prediction](images/b.jpeg)
