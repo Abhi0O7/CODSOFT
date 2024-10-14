@@ -1,6 +1,6 @@
 # Credit card fraud detection project
 
-<img src="card.jpg" width="400" height="300">
+<img src="card.jpg" width="500" height="300">
 
 ## Table of Contents
 
