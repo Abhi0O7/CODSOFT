@@ -66,7 +66,7 @@ Make sure to install these libraries and import before running the code to avoid
 
 After applying Logistic Regression and Decision Tree models to the dataset, the following results were obtained:
 
-==========Logistic Regression===========
+     **Logistic Regression**
 
  Accuaracy: 0.9444656419201279
  
