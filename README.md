@@ -66,15 +66,21 @@ After applying Logistic Regression and Decision Tree models to the dataset, the 
 ==========Logistic Regression===========
 
  Accuaracy: 0.9444656419201279
+ 
  Precision: 0.9728605694831322
+ 
  Recall: 0.9143683071832446
+ 
  F1 Score: 0.9427079916400342
 
 ==========Decision Tree Classifier===========
 
  Accuaracy: 0.9982194120425888
+ 
  Precision: 0.9974405053640473
+ 
  Recall: 0.9990000545424795
+ 
  F1 Score: 0.9982196708207682
 
 Despite good performance, further improvements could be made by:
