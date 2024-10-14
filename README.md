@@ -19,7 +19,9 @@ This project is dedicated to detecting fradulent credit card transaction thus pr
 ## Dataset
 
 The dataset is sourced from Kaggle. It contains credit card transactions made by European cardholders in September 2013. This dataset presents transactions that occurred in two days (284,807 transactions), out of it 492 are fraud transactions. 
+
 N.B.: The dataset is highly unbalanced, the positive class (frauds) account for 0.172% of all transactions.
+
 Features V1, V2, … V28 are the principal components obtained with PCA, except the 'Time' and 'Amount'. Feature. Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
 ## Project Repository Structure
@@ -29,8 +31,8 @@ The repository is organized as follows:
 1. **images/**: Contains images used within this README.
 2. **Data/**: Stores the dataset used for analysis.
 3. **README.md**: This document, gives an overview of the project.
-6. **ipynb notebook/**: Contains a Jupyter notebook with the full co.
-7. **cc_model.pkl**: This is the final model.
+4. **ipynb notebook/**: Contains a Jupyter notebook with the full co.
+5. **cc_model.pkl**: This is the final model.
 
 ## Project Dependencies
 
