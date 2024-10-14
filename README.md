@@ -1,6 +1,6 @@
 # Credit card fraud detection project
 
-[Sales Prediction](/card.jpg)
+![Credit card fraud detection](/card.jpg)
 
 ## Table of Contents
 
