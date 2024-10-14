@@ -1,6 +1,6 @@
 # Credit Card Fraud Detection 
 
-<img src="card.jpg" width="300" height="280">
+<img src="card.jpg" width="300" height="250">
 
 ## Table of Contents
 
