@@ -1,7 +1,6 @@
 # Credit card fraud detection project
 
-![Credit card fraud detection](card.jpg =250*250)
-<img src="card.jpg" width="300" height="300">
+<img src="card.jpg" width="400" height="350">
 
 ## Table of Contents
 
