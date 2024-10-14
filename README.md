@@ -26,7 +26,7 @@ Note: The dataset is highly imbalanced, with the fraudulent class representing j
 
 The features V1 through V28 are the principal components derived from PCA, while 'Time' and 'Amount' are not transformed. The 'Class' feature is the target variable, where 1 indicates fraud, and 0 indicates a legitimate transaction.
 
-**Dataset Link**: [](#https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+**Dataset Link**: [Dataset Link](#https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Project Repository Structure
 
