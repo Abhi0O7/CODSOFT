@@ -1,5 +1,7 @@
 # Credit card fraud detection project
 
+(card.jpg)
+
 ## Table of Contents
 
 - [Project Overview](#Project-overview)
