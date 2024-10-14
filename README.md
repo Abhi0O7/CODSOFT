@@ -69,9 +69,9 @@ After applying Logistic Regression and Decision Tree models to the dataset, the 
 
    ===**Logistic Regression**===
 
- Accuaracy: 0.9444656419201279
+ * Accuaracy: 0.9444656419201279
  
- Precision: 0.9728605694831322
+ - Precision: 0.9728605694831322
  
  Recall: 0.9143683071832446
  
