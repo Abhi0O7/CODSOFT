@@ -2,8 +2,7 @@
 
 ## Table of Contents
 
-* [Project Overview](#project-workflow)
-  
+-[Project Overview](#project-workflow)
 - [Dataset](#dataset)
 - [Project Structure](#project-structure)
 - [Project Dependencies](#project-dependencies)
